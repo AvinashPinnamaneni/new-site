@@ -555,6 +555,11 @@ span.ds-department {
   border-radius: 20px;
 
 }
+.ds-concept-img{
+  border-radius: 20px;
+  height: 3.5em;
+  width: 2.5em;
+}
 
 .ds-sub-heading{
   font-size: 18px;
